@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89f0b8a5b86d4360a4f29e9973b7c806",
+    "revision": "edf0a1fff02592a90093c27fcf7213d5",
     "url": "/my-react-redus-app/index.html"
   },
   {
-    "revision": "025176e5b1b37451e69e",
+    "revision": "96f72dc81d570f0859a6",
     "url": "/my-react-redus-app/static/css/main.1ba4bc7d.chunk.css"
   },
   {
-    "revision": "a7a4f24e3a75b1d96ca0",
-    "url": "/my-react-redus-app/static/js/2.dd284e4a.chunk.js"
+    "revision": "15647f12fac68b30edec",
+    "url": "/my-react-redus-app/static/js/2.56e277a3.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/my-react-redus-app/static/js/2.dd284e4a.chunk.js.LICENSE.txt"
+    "url": "/my-react-redus-app/static/js/2.56e277a3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "025176e5b1b37451e69e",
-    "url": "/my-react-redus-app/static/js/main.275bf41a.chunk.js"
+    "revision": "96f72dc81d570f0859a6",
+    "url": "/my-react-redus-app/static/js/main.b8debbae.chunk.js"
   },
   {
     "revision": "0d50749f6b823709c64f",
