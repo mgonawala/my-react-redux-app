@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import {BrowserRouter, Route , withRouter} from 'react-router-dom';
+import {BrowserRouter, Route , withRouter, HashRouter} from 'react-router-dom';
 import './index.css';
 import AuthorQuiz from './AuthorQuiz';
 import * as serviceWorker from './serviceWorker';
@@ -82,10 +82,10 @@ const AddAuthFormWrapperWithRouter = withRouter(AddAuthorFormWrapper);
 
     ReactDOM.render(
         <ReactRedux.Provider store={store}>
-        <BrowserRouter>
+        <HashRouter>
             <Route exact path="/" component={AuthorQuiz}/>
             <Route path="/add" component={AddAuthorForm }/>
-        </BrowserRouter>
+        </HashRouter>
         </ReactRedux.Provider>
         ,
         document.getElementById('root')
