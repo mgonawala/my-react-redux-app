@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89f0b8a5b86d4360a4f29e9973b7c806",
+    "revision": "6cd527bd9b0db799c3dbbea4e03fff69",
     "url": "/my-react-redus-app/index.html"
   },
   {
